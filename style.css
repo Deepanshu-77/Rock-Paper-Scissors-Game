@@ -1,0 +1,29 @@
+.choicebtn{
+   line-height: 30px;
+   width: 150px;
+   border: 2px solid rgba(252, 251, 255, 0.962);
+   border-radius: 10px;
+   background-color: #1a6262;
+   color: white;
+}
+
+
+
+#gamediv{
+    font-family : cursive;
+    border: 2px solid  #00000000;
+    border-radius:  30px;
+    padding: 20px;
+    background-color: #053b3b;
+    text-align: center;
+}
+#playertext{
+    color: rgb(140, 140, 216);
+
+}
+#computertext{
+    color: rgb(213, 117, 117);
+}
+#resulttext{
+    color: rgb(179, 199, 128);
+}
